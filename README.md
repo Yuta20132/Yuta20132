@@ -9,6 +9,7 @@
 - Yuta Uehara and Susumu Matsumae: Effect of Integrating Variational Autoencoder with SENet on Dimensionality Reduction in Driving Behavior Learning, International Workshop on Advances in Networking and Computing (WANC, in conjunction with CANDAR'24), (Naha, Okinawa, Japan, Nov. 26-29, 2024)
 - 上原 佑太, 松前 進: 深層強化学習を用いた運転行動学習におけるVAEでの次元削減の効果, 2023年度 第76回 電気・情報関係学会 九州支部連合大会 (2023年9月)
 - 上原 佑太, 松前 進: 運転行動学習でのSENetを組み込んだVAEの次元削減効果, 2024年度 第77回 電気・情報関係学会 九州支部連合大会 (2024年9月)
+- 上原 佑太、 辻田 隆善 (株式会社ユーザーローカル): LLMを活用した面接対話エージェントの開発と発話分析に基づくフィードバック生成(2026年11月)
 ## 長期インターン
 - 株式会社Visualiz（2023年6月〜2024年6月）
 - 株式会社Almondo（2024年5月〜2025年3月）
